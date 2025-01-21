@@ -1,0 +1,8 @@
+relevance of only skills & Job titles (only foundit data):
+https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fgist.githubusercontent.com%2Fsreenesh-reddy%2F3046ffbfa169a8261c088e81fced8351%2Fraw%2F47a50b8a4647701ad75e49f635687f52684d1342%2Fjob_skills_graph.gexf&c=t&s=r&sa=r&ca=t
+
+relevance of candidates, skills and job titles (only foundit data):
+https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fgist.githubusercontent.com%2Fsreenesh-reddy%2F35b347890797f0eddbf2a1c44088d893%2Fraw%2F78294d5037856f22b85250329d0285504834a975%2Fjob_skills_candidates_graph.gexf&c=t&s=r&sa=r&ca=t
+
+relevance of candidates, skills and job titles (both foundit and noukri):
+https://ouestware.gitlab.io/retina/beta/#/graph/?url=https%3A%2F%2Fgist.githubusercontent.com%2Fsreenesh-reddy%2F8cfd74803fb741a27034041d3c94a9a2%2Fraw%2F247dc97ee904a2c60098074d70292b35feb49d4f%2Fjob_skills_candidates_graph.gexf&c=t&s=r&sa=r&ca=t
